@@ -17,3 +17,8 @@ The example working of the NLP model is as follows
   <img width="281" alt="image" src="https://github.com/kushal92001/Question_Answering/assets/71443901/1fb0859b-2472-4bd9-8000-b08636ac32ce">
   <p>Comparison of predicted and true answers for  Roberta-base-squad2 model</p>
 </p>
+<p align="center">
+  <img width="421" alt="image" src="https://github.com/kushal92001/Question_Answering/assets/71443901/c4ad5319-e881-4d7e-82ec-4a71a0d8948d">
+  <p>Metrics results</p>
+</p>
+
